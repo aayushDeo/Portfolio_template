@@ -332,8 +332,8 @@ img {
       margin-bottom: 1.2rem;
 
       // Captcha Div
-      div {
-        margin: 0 auto 0 auto;
+      & > div {
+        margin: 0 auto;
       }
 
       input,
