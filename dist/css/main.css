@@ -377,9 +377,6 @@ img {
   grid-template-areas: "name email" "subject phone" "message message";
   grid-gap: 1.2rem;
   margin-bottom: 1.2rem; }
-  #contact-a .text-fields > div {
-    margin-right: auto;
-    margin-left: auto; }
   #contact-a .text-fields input,
   #contact-a .text-fields textarea {
     font-size: 1rem; }
